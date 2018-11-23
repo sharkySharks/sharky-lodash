@@ -1,6 +1,6 @@
-## Reimplementation of [lodash](https://lodash.com/docs)
+## Reimplementation of [Lodash](https://lodash.com/docs)
 
-Practice reimplementing lodash functions using TDD.
+Practice reimplementing Lodash functions using TDD.
 
 ### Run tests
 
